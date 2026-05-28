@@ -18,3 +18,6 @@
 -📝Também tenho como objetivo contribuir para projetos open source, compartilhar conhecimento com a comunidade e aprender com outros desenvolvedores. Acredito que a troca de experiências e a colaboração são fundamentais para o crescimento profissional e pessoal dentro da área de tecnologia.
 
 -📊No longo prazo, pretendo construir projetos cada vez mais completos, participar de equipes inovadoras e me tornar um profissional capaz de transformar ideias em soluções reais, utilizando a tecnologia como ferramenta para gerar impacto positivo.
+
+![imagem](https://pt.wikipedia.org/wiki/Banco_de_dados)
+
