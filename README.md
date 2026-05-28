@@ -10,7 +10,7 @@
 🖥️JavaScript / Python / Java
 🏦 Banco de Dados
 
-# Objetivo
+**bjetivo
 -🔋 Meu principal objetivo é crescer constantemente como desenvolvedor, buscando não apenas aprender novas tecnologias, mas também compreender como utilizá-las para criar soluções eficientes, modernas e úteis para as pessoas. Tenho grande interesse em participar de projetos que desafiem minhas habilidades, permitindo desenvolver experiência prática em diferentes áreas da tecnologia.
 
 -🎯 Busco aprimorar meus conhecimentos em desenvolvimento de software, trabalhando com boas práticas de programação, organização de código, versionamento com Git e colaboração em equipe através do GitHub. Além disso, quero expandir minha experiência em desenvolvimento web, APIs, banco de dados e automação, criando aplicações que sejam funcionais, escaláveis e intuitivas.
