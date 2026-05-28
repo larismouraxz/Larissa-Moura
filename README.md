@@ -19,5 +19,5 @@
 
 -📊No longo prazo, pretendo construir projetos cada vez mais completos, participar de equipes inovadoras e me tornar um profissional capaz de transformar ideias em soluções reais, utilizando a tecnologia como ferramenta para gerar impacto positivo.
 
-![imagem](![Uploading Postgres_Query.jpg…])
+![imagem](Postgres_Query.jpg)
 
